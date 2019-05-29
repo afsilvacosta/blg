@@ -1,3 +1,3 @@
 # blg
-java code
+javascript code
 
